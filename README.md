@@ -3,7 +3,7 @@
 A responsive personal portfolio website built for the **GDG (Google Developer Groups) on Campus PUP** Web Development track. This static site introduces my background as a Computer Science student, showcases my recent web development projects, and highlights my personal interests using a modern, Google-themed design.
 
 ## 🚀 Live Demo
-[Click here to view the live website](https://romar-jpg.github.io/personal-portfolio/)
+[Click here to view the live website](https://romar-jpg.github.io/Personal-Portfolio-Website/)
 
 ## ✨ Features
 
